@@ -1,0 +1,24 @@
+
+how to make cpp shortcut :
+
+1- click on settings icon (left button in the srean)
+2- click snippets
+3- click cpp.json
+4- to add new shortcut 
+
+============================================================
+,
+
+    //! Start Shortcut 1
+
+    "C++ 3": {
+        "prefix": "test", // الاختصار الذي تكتبه
+        "body": [
+           "line1",
+           "line2"
+        ],
+        "description": "Insert C++ Template" // وصف الاختصار
+    }
+
+    //! End Shortcut 1
+============================================================
